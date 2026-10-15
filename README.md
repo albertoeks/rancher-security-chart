@@ -1,3 +1,6 @@
+
+   > Fork of [thiagoloureiro/rancher-security-chart](https://github.com/thiagoloureiro/rancher-security-chart) by Thiago Loureiro, MIT licensed.
+
 # Image Vulnerabilities for Rancher
 
 [![version](https://img.shields.io/github/package-json/v/thiagoloureiro/rancher-security-chart?filename=pkg%2Francher-vulnerability-ui%2Fpackage.json&label=version)](https://github.com/thiagoloureiro/rancher-security-chart/releases)
